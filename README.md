@@ -77,12 +77,12 @@ php artisan serve
 ```
 
 ## Login
-# Admin
-E-Mail : superadmin@gmail.com
+### Admin
+E-Mail : superadmin@gmail.com <br>
 Password : superadmin ($2a$04$bW8gzYTJxqmTsehOb.lSqu2UUuFPRpzYeYV/ADxU6zTEza8ZL0iGi)
 
-# Karyawan
-E-Mail : kasir1@gmail.com
+### Karyawan
+E-Mail : kasir1@gmail.com <br>
 Password : kasir1 ($2y$10$VyowwXaKQRVODPYhEuFde.PrEbAkZHSPJzK21GsQvxM0HHrOsi2kO)
 
 ## License
